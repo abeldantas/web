@@ -19,7 +19,7 @@ Here are some links:
 <br>
 
 
-- [Posts](https://medium.com/@dantas.abel)
+- [Medium Articles](https://medium.com/@dantas.abel)
 - [LinkedIn](https://linkedin.com/in/abel-dantas)
 - [Bluesky](https://bsky.app/profile/abeldantas.bsky.social)
 - [Instagram](https://www.instagram.com/affdantas/)
