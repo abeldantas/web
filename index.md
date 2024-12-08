@@ -10,7 +10,6 @@ layout: default
 
 I build systems — by seeking, crafting and connecting.
 
-🔮 Yes!
 
 ## Thanks for visiting.
 Here are some links:
@@ -20,5 +19,6 @@ Here are some links:
 - [My LinkedIn](https://linkedin.com/in/abel-dantas)
 - [My GitHub](https://github.com/abeldantas)
 
-
+</br></br>
+🔮 Yes!
 
