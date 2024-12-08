@@ -16,8 +16,10 @@ Here are some links:
 - [Cooperativa](https://cpds.pt/)
 - [Xarp](https://xarp.pt/)
 
-- [Blog Posts](https://medium.com/@dantas.abel)
+<br>
 
+
+- [Posts](https://medium.com/@dantas.abel)
 - [LinkedIn](https://linkedin.com/in/abel-dantas)
 - [Bluesky](https://bsky.app/profile/abeldantas.bsky.social)
 - [Instagram](https://www.instagram.com/affdantas/)
