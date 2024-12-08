@@ -15,8 +15,10 @@ Here are some links:
 
 - [Cooperativa](https://cpds.pt/)
 - [Xarp](https://xarp.pt/)
-- [My LinkedIn](https://linkedin.com/in/abel-dantas)
-- [My GitHub](https://github.com/abeldantas)
+- [LinkedIn](https://linkedin.com/in/abel-dantas)
+- [Bluesky](https://bsky.app/profile/abeldantas.bsky.social)
+- [Instagram](https://www.instagram.com/affdantas/)
+- [GitHub](https://github.com/abeldantas)
 
 <br><br>
 🔮 Yes!
