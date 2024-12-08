@@ -1,9 +1,9 @@
 ---
 title: Abel Dantas
-layout: light
+layout: default
 ---
 
-## Hi 💫 I'm Abel
+## Hi 🌿 I'm Abel
 
 <!-- (He throws a ball at you with a wink, and you catch it effortlessly.) -->
 (He stirs the fire with a stick, and you catch the semblance of a story forming in the flames.)
