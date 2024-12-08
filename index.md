@@ -3,12 +3,14 @@ title: Abel Dantas
 layout: default
 ---
 
-## Hi 🌿 I'm Abel
+## Hi 🔥 I'm Abel <!-- 🌬️🍃✨🌿-->
 
 <!-- (He throws a ball at you with a wink, and you catch it effortlessly.) -->
 (He stirs the fire with a stick, and you see the semblance of a story forming in the flames.)
 
 I build systems — by seeking, crafting and connecting.
+
+🔮 Yes!
 
 ## Thanks for visiting.
 Here are some links:
@@ -20,5 +22,3 @@ Here are some links:
 
 
 
-
-🔮 Yes!
