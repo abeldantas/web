@@ -1,5 +1,10 @@
 remote_theme: riggraz/no-style-please
 title: Abel Dantas
 url: https://abeldantas.github.io
+custom_head: assets/custom-head.html
 theme_config:
   appearance: light
+custom_footer: |
+    <footer style="text-align: center; margin-top: 50px; font-size: 0.8em; color: gray;">
+        Abel Dantas
+    </footer>

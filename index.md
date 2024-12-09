@@ -1,16 +1,16 @@
 ---
-title: Abel Dantas
+title: Hi 🔥 I'm Abel
 layout: default
 ---
 
 ## Hi 🔥 I'm Abel
 
-_(He stirs the fire with a stick, and you see the semblance of something you were afraid you'd forget dancing in the flames.)_
+_(He stirs the fire with a stick, and you see the semblance of a memory you feared lost, dancing in the flames.)_
 
-I build systems. <!-- _(He throws a ball at you with a wink, and you catch it effortlessly.)_ -->
+I build systems.
 
-Founder, researcher, programmer, philosopher. <br>
-Distributed Systems. Cooperativism. Games.
+Founder, researcher, programmer<!-- and wizard 🧙-->. <br>
+Distributed Systems. Cooperatives. Games.
 
 ## Thanks for visiting.
 Here are some links:
@@ -18,9 +18,9 @@ Here are some links:
 - [Cooperativa](https://cpds.pt/)
 - [Xarp](https://xarp.pt/)
 - [Bluesky](https://bsky.app/profile/abeldantas.bsky.social)
-- [Blog Posts](https://medium.com/@dantas.abel)
 - [LinkedIn](https://linkedin.com/in/abel-dantas)
 - [Instagram](https://www.instagram.com/affdantas/)
+- [Medium](https://medium.com/@dantas.abel)
 - [GitHub](https://github.com/abeldantas)
 
 <br>
