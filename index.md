@@ -9,7 +9,8 @@ _(He stirs the fire with a stick, and you see the semblance of something you wer
 
 I build systems. <!-- _(He throws a ball at you with a wink, and you catch it effortlessly.)_ -->
 
-Founder, researcher, programmer, philosopher. Distributed Systems. Cooperativism. Games.
+Founder, researcher, programmer, philosopher. 
+Distributed Systems. Cooperativism. Games.
 
 ## Thanks for visiting.
 Here are some links:
