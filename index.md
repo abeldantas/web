@@ -7,9 +7,9 @@ layout: default
 
 _(He stirs the fire with a stick, and you see the semblance of something you were afraid you'd forget dancing in the flames.)_
 
-I build systems.
+I build systems. <!-- _(He throws a ball at you with a wink, and you catch it effortlessly.)_ -->
 
-<!-- _(He throws a ball at you with a wink, and you catch it effortlessly.)_ -->
+Founder, researcher, programmer, philosopher. Distributed Systems. Cooperativism. Games.
 
 ## Thanks for visiting.
 Here are some links:
