@@ -1,6 +1,6 @@
 remote_theme: riggraz/no-style-please
 title: Abel Dantas
 url: https://abeldantas.github.io
-favicon: "🌍"
+favicon: "/favicon.ico"
 theme_config:
   appearance: light
