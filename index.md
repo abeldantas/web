@@ -5,7 +5,9 @@ layout: default
 
 ## Hi 🔥 I'm Abel
 
-_(He stirs the fire with a stick, and you see the semblance of a memory you feared lost, dancing in the flames.)_
+_"It is better to light a match than to curse the darkness"_ (Unknown)
+
+<!-- _Be a pessimist in analysis but an optimist in action._ (Antonio Gramsci) -->
 
 I build systems.
 
