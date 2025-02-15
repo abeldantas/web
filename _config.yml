@@ -4,3 +4,6 @@ url: https://abeldantas.github.io
 favicon: "/favicon.ico"
 theme_config:
   appearance: light
+sass:
+  load_path: 
+    - assets/css

@@ -1,18 +1,16 @@
 ---
-title: Hi 🔥 I'm Abel
+title: Abel Dantas
 layout: default
 ---
 
-## Hi 🔥 I'm Abel
-
-_"It is better to light a match than to curse the darkness"_ (Unknown)
-
-<!-- _Be a pessimist in analysis but an optimist in action._ (Antonio Gramsci) -->
+## Abel Dantas
 
 I build systems.
 
-Founder, researcher, programmer<!-- and wizard 🧙-->. <br>
+Founder, researcher, programmer. <br>
 Distributed Systems. Cooperatives. Games.
+
+<!-- _"It is better to light a match than to curse the darkness"_ (Unknown) -->
 
 ## Thanks for visiting.
 Here are some links:
