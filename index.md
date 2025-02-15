@@ -5,8 +5,9 @@ layout: default
 
 ## Abel Dantas
 
-![A light-skinned man in his mid-30s with dark brown, slightly wavy hair and a well-groomed beard stands against a neutral gray background. His eyes are deep-set and dark, and he has a confident, warm smile. He is wearing a plain white T-shirt and has a relaxed posture with his arms crossed. His muscular arms and lightly tanned skin suggest an active lifestyle. His expression is approachable and self-assured, conveying a sense of quiet confidence (AI generated).](assets/abel-dantas.jpg)
+<!-- ![A light-skinned man in his mid-30s with dark brown, slightly wavy hair and a well-groomed beard stands against a neutral gray background. His eyes are deep-set and dark, and he has a confident, warm smile. He is wearing a plain white T-shirt and has a relaxed posture with his arms crossed. His muscular arms and lightly tanned skin suggest an active lifestyle. His expression is approachable and self-assured, conveying a sense of quiet confidence (AI generated).](assets/abel-dantas.jpg) -->
 
+  <img src="assets/abel-dantas.jpg" alt="A light-skinned man in his mid-30s with dark brown, slightly wavy hair and a well-groomed beard stands against a neutral gray background. His eyes are deep-set and dark, and he has a confident, warm smile. He is wearing a plain white T-shirt and has a relaxed posture with his arms crossed. His muscular arms and lightly tanned skin suggest an active lifestyle. His expression is approachable and self-assured, conveying a sense of quiet confidence (this description was AI generated)." width="300">
 
 I build systems.
 
