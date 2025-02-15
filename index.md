@@ -9,8 +9,7 @@ layout: default
 
 <br style="clear: both;">
 
-I build systems.
-
+<!-- I build systems. -->
 Founder, researcher, programmer. <br>
 Distributed Systems. Cooperatives. Games.
 
