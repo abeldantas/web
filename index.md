@@ -9,7 +9,6 @@ layout: default
 
 <br style="clear: both;">
 
-<!-- I build systems. -->
 Founder, researcher, programmer. <br>
 Distributed Systems.
 
