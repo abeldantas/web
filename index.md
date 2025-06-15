@@ -11,7 +11,7 @@ layout: default
 
 <!-- I build systems. -->
 Founder, researcher, programmer. <br>
-Distributed Systems. Decentralized Resource Networks. Gamification.
+Distributed Systems.
 
 <!-- _"It is better to light a match than to curse the darkness"_ (Unknown) -->
 
