@@ -17,7 +17,7 @@ Distributed Systems.
 ## Thanks for visiting.
 Here are some links:
 
-- [Cooperativa](https://cpds.pt/)
+- [CTVC](https://ctvc.pt/)
 - [Xarp](https://xarp.pt/)
 - [FYX](https://www.fyxgaming.com/)
 - [Bluesky](https://bsky.app/profile/abeldantas.bsky.social)
