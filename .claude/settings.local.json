@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gem install:*)",
+      "Bash(bundle install:*)",
+      "Bash(brew install:*)",
+      "Bash(mkdir:*)",
+      "Bash(hugo new:*)",
+      "Bash(cp:*)",
+      "WebFetch(domain:edwardtufte.github.io)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:cdn.jsdelivr.net)",
+      "Bash(hugo server:*)",
+      "Bash(rm:*)",
+      "Bash(hugo:*)",
+      "Bash(ls:*)"
+    ],
+    "deny": []
+  }
+}
