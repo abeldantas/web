@@ -13,7 +13,9 @@
       "Bash(hugo server:*)",
       "Bash(rm:*)",
       "Bash(hugo:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(mv:*)",
+      "Bash(git add:*)"
     ],
     "deny": []
   }

@@ -1,0 +1,36 @@
+# Hugo generated files
+hugo-site/public/
+hugo-site/resources/
+.hugo_build.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Claude Code related
+.claude/
+CLAUDE.md
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Hugo generated static files in root (for GitHub Pages)
+/index.html
+/index.xml
+/sitemap.xml
+/404.html
+/tags/
+/categories/
