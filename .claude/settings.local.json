@@ -15,7 +15,8 @@
       "Bash(hugo:*)",
       "Bash(ls:*)",
       "Bash(mv:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(find:*)"
     ],
     "deny": []
   }
