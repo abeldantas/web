@@ -39,15 +39,10 @@ jobs:
         run: |
           hugo --minify
           
-      - name: Copy built files to root
-        run: |
-          cp -r hugo-site/public/* .
-          rm -rf hugo-site/public
-          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./
+          path: ./hugo-site/public
           
   deploy:
     environment:
