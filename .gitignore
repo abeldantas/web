@@ -18,8 +18,11 @@ hugo-site/resources/
 # Logs
 *.log
 
-# Claude Code related
+# AI/LLM generated files
 .claude/
+.cursor/
+.github/copilot-instructions.md
+.cursorrules
 CLAUDE.md
 
 # Temporary files
