@@ -21,7 +21,9 @@
       "WebFetch(domain:abeldantas.github.io)",
       "Bash(gh run list:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "WebSearch",
+      "WebFetch(domain:pascalmichaillat.org)"
     ],
     "deny": []
   }
