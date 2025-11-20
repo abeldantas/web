@@ -23,7 +23,8 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "WebSearch",
-      "WebFetch(domain:pascalmichaillat.org)"
+      "WebFetch(domain:pascalmichaillat.org)",
+      "WebFetch(domain:xarp.pt)"
     ],
     "deny": []
   }
